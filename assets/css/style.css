@@ -1,3 +1,12 @@
+@font-face {
+	font-family: 'FiraGO';
+	src: url('../fonts/FiraGO-ExtraBoldItalic.eot');
+	src: url('../fonts/FiraGO-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/FiraGO-ExtraBoldItalic.woff2') format('woff2'),
+		 url('../fonts/FiraGO-ExtraBoldItalic.woff') format('woff'),
+		 url('../fonts/FiraGO-ExtraBoldItalic.ttf')  format('truetype'); /* Safari, Android, iOS */
+}
+
 body {
 	background-color: #cadb2a;
 	font-family: 'FiraGO', sans-serif;
